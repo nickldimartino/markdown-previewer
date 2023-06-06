@@ -1,0 +1,28 @@
+#editor-box {
+  background-color: darkseagreen;
+  border: 1px solid black;
+}
+
+#editor {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+#preview-box {
+  background-color: lightseagreen;
+  border: 1px solid black;
+}
+
+#preview-heading, #editor-heading {
+  justify-content: center;
+  text-align: center;
+}
+
+#preview {
+  display: block;
+  margin: auto;
+  width: 50%;
+  border: 1px solid black;
+  min-height: 50px;
+}
